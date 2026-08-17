@@ -7,7 +7,7 @@ st.set_page_config(page_title="Telco Churn Dashboard", layout="wide")
 st.title("📊 Subscriber Retention & Customer Churn Analytics")
 
 # 2. Optimized Data Loading Pipeline
-csv_filename = "Telco-Customer-Churn.csv"
+csv_filename = "https://githubusercontent.com"
 
 @st.cache_data
 def load_churn_data():
